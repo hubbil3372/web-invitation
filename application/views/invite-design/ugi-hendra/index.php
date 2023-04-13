@@ -375,7 +375,7 @@
           });
         }
       </script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCT_D7BvXO6NREmTFCcZAqBfANFFXjgHvM&callback=initMap&v=weekly" async></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap&v=weekly" async></script>
 
       <div class="wedding-closing">
         <div class="container py-5 reveal">
